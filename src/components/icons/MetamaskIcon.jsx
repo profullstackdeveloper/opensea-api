@@ -1,0 +1,40 @@
+export default function MetamaskIcon() {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" width="38.171" height="34.089" viewBox="0 0 38.171 34.089">
+            <g id="metamask-icon" transform="translate(-0.563 -0.563)">
+                <path id="Path_2729" data-name="Path 2729" d="M60.75,169.567l5,1.327v-1.735l.408-.408h2.858v3.47H65.955l-3.776-1.633Z" transform="translate(-49.266 -137.671)" fill="#cdbdb2" fillRule="evenodd" />
+                <path id="Path_2730" data-name="Path 2730" d="M0,2.654,4.9,1.327V3.062l.408.408H8.165V0H5.1L1.327,1.633Z" transform="translate(27.814 34.549) rotate(180)" fill="#cdbdb2" fillRule="evenodd" />
+                <path id="Path_2731" data-name="Path 2731" d="M88.721,150.135l-.408,3.368.51-.408h5.307l.612.408-.408-3.368-.816-.51-4.083.1Z" transform="translate(-71.828 -122.016)" fill="#393939" fillRule="evenodd" />
+                <path id="Path_2732" data-name="Path 2732" d="M75.375,27l2.45,5.716,1.123,16.636h3.98l1.225-16.636L86.4,27Z" transform="translate(-61.238 -21.641)" fill="#f89c35" fillRule="evenodd" />
+                <path id="Path_2733" data-name="Path 2733" d="M3.421,82.375.563,90.642l7.144-.408H12.3V86.662l-.2-7.349-1.021.817Z" transform="translate(0 -64.462)" fill="#f89d35" fillRule="evenodd" />
+                <path id="Path_2734" data-name="Path 2734" d="M46.125,101.25l8.369.2-.918,4.287L49.6,104.72Z" transform="translate(-37.295 -82.418)" fill="#d87c30" fillRule="evenodd" />
+                <path id="Path_2735" data-name="Path 2735" d="M46.125,101.813l3.47,3.266v3.266Z" transform="translate(-37.295 -82.879)" fill="#ea8d3a" fillRule="evenodd" />
+                <path id="Path_2736" data-name="Path 2736" d="M65.25,120.375l4.083,1.021,1.327,4.389-.919.51-4.491-2.654Z" transform="translate(-52.95 -98.073)" fill="#f89d35" fillRule="evenodd" />
+                <path id="Path_2737" data-name="Path 2737" d="M61.567,138.375,60.75,144.7l5.409-3.776Z" transform="translate(-49.266 -112.807)" fill="#eb8f35" fillRule="evenodd" />
+                <path id="Path_2738" data-name="Path 2738" d="M87.646,102.375l.51,8.675-1.531-4.44Z" transform="translate(-70.446 -83.339)" fill="#ea8e3a" fillRule="evenodd" />
+                <path id="Path_2739" data-name="Path 2739" d="M39.375,138.477l4.695-.1-.817,6.328Z" transform="translate(-31.77 -112.807)" fill="#d87c30" fillRule="evenodd" />
+                <path id="Path_2740" data-name="Path 2740" d="M2.808,147.92l8.675-2.756-3.878-6.226-7.042.51Z" transform="translate(0 -113.268)" fill="#eb8f35" fillRule="evenodd" />
+                <path id="Path_2741" data-name="Path 2741" d="M53.882,58.5l-4.389,3.674-3.368,4.083,8.369.306Z" transform="translate(-37.295 -47.425)" fill="#e8821e" fillRule="evenodd" />
+                <path id="Path_2742" data-name="Path 2742" d="M60.75,156.214l5.409-3.776-.408,3.266v1.837l-3.674-.715Z" transform="translate(-49.266 -124.318)" fill="#dfcec3" fillRule="evenodd" />
+                <path id="Path_2743" data-name="Path 2743" d="M0,1.327,5.307,5.1,4.9,1.837V0L1.225.715Z" transform="translate(27.814 33.223) rotate(180)" fill="#dfcec3" fillRule="evenodd" />
+                <path id="Path_2744" data-name="Path 2744" d="M1.123,2.348,0,0,3.981,1.021Z" transform="translate(16.077 23.221) rotate(180)" fill="#393939" fillRule="evenodd" />
+                <path id="Path_2745" data-name="Path 2745" d="M12.375.563,26.256,11.075,23.908,5.36Z" transform="translate(-9.669 0)" fill="#e88f35" fillRule="evenodd" />
+                <path id="Path_2746" data-name="Path 2746" d="M4.087.563,2.25,6.176,3.271,12.3l-.714.408,1.021.919-.817.714,1.123,1.021-.714.612L4.8,18.015l7.655-2.347a67.033,67.033,0,0,0,5.511-4.593Q17.866,10.973,4.087.563Z" transform="translate(-1.381)" fill="#8e5a30" fillRule="evenodd" />
+                <g id="Group_1708" data-name="Group 1708" transform="translate(38.734 34.652) rotate(180)">
+                    <path id="Path_2747" data-name="Path 2747" d="M2.858,8.267,0,0,7.144.408h4.593V3.98l-.2,7.349-1.021-.817Z" transform="translate(0 8.471)" fill="#f89d35" fillRule="evenodd" />
+                    <path id="Path_2748" data-name="Path 2748" d="M0,4.491l8.369-.2L7.451,0,3.47,1.021Z" transform="translate(8.267 11.329)" fill="#d87c30" fillRule="evenodd" />
+                    <path id="Path_2749" data-name="Path 2749" d="M0,6.532,3.47,3.266V0Z" transform="translate(8.267 9.186)" fill="#ea8d3a" fillRule="evenodd" />
+                    <path id="Path_2750" data-name="Path 2750" d="M0,5.92,4.083,4.9,5.409.51,4.491,0,0,2.654Z" transform="translate(11.737 6.43)" fill="#f89d35" fillRule="evenodd" />
+                    <path id="Path_2751" data-name="Path 2751" d="M.817,6.328,0,0,5.307,3.674Z" transform="translate(10.921 2.756)" fill="#eb8f35" fillRule="evenodd" />
+                    <path id="Path_2752" data-name="Path 2752" d="M1.021,8.675,1.531,0,0,4.44Z" transform="translate(15.616 6.94)" fill="#ea8e3a" fillRule="evenodd" />
+                    <path id="Path_2753" data-name="Path 2753" d="M0,6.226l4.695.1L3.878,0Z" transform="translate(7.042 2.756)" fill="#d87c30" fillRule="evenodd" />
+                    <path id="Path_2754" data-name="Path 2754" d="M2.245,0l8.675,2.756L7.042,8.982,0,8.471Z" transform="translate(0)" fill="#eb8f35" fillRule="evenodd" />
+                    <path id="Path_2755" data-name="Path 2755" d="M7.757,8.063,3.368,4.389,0,.306,8.369,0Z" transform="translate(8.267 15.514)" fill="#e8821e" fillRule="evenodd" />
+                    <path id="Path_2756" data-name="Path 2756" d="M1.123,0,0,2.348,3.981,1.327Z" transform="translate(15.514 13.779) rotate(180)" fill="#393939" fillRule="evenodd" />
+                    <path id="Path_2757" data-name="Path 2757" d="M0,10.512,13.881,0,11.533,5.716Z" transform="translate(2.143 23.577)" fill="#e88f35" fillRule="evenodd" />
+                    <path id="Path_2758" data-name="Path 2758" d="M1.837,17.453,0,11.839,1.021,5.716.306,5.307l1.021-.919L.51,3.674,1.633,2.654.919,2.041,2.552,0l7.655,2.347A67.033,67.033,0,0,1,15.718,6.94Q15.616,7.042,1.837,17.453Z" transform="translate(0.306 16.636)" fill="#8e5a30" fillRule="evenodd" />
+                </g>
+            </g>
+        </svg>
+    )
+}
